@@ -1,15 +1,36 @@
 import React from 'react'
+
 const Header = (props) => {
-  <h1>{props.course}</h1>
+  return (
+    <section>
+      <h1>{props.course}</h1>
+    </section>
+  )
 }
 
-const Content = ... {
+const Content = (props) => {
   return (
-    <div>
-      <Part .../>
-      <Part .../>
-      <Part .../>
-    </div>
+    <section>
+      <Part name={props.part1} num={props.exercises1} />
+      <Part name={props.part2} num={props.exercises2} />
+      <Part name={props.part3} num={props.exercises3} />
+    </section>
+  )
+}
+
+const Total = (props) => {
+  return (
+    <section>
+      <p>Number of exercises: {props.total}</p>
+    </section>
+  )
+}
+
+const Part = (props) => {
+  return (
+    <section>
+      <p>{props.name}: {props.num}</p>
+    </section>
   )
 }
 
@@ -22,13 +43,11 @@ const App = () => {
   const part3 = 'State of a component'
   const exercises3 = 14
 
-
-
   return (
     <section>
       <Header course={course} />
-      <Content ... />
-      <Total ... />
+      <Content part1={part1} exercises1={exercises1} part2={part2} exercises2={exercises2} part3={part3} exercises3={exercises3} />
+      <Total total={exercises1 + exercises2 + exercises3} />
     </section>
   )
 }
