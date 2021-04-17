@@ -1,4 +1,4 @@
-# My Awesome Project
+# FullStack Open Course
 Documenting my progress through the Fullstack Open Course at https://fullstackopen.com/en/about
  
 # How It's Made:
