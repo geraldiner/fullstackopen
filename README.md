@@ -15,6 +15,7 @@ Documenting my progress through the Fullstack Open Course at https://fullstackop
 
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -26,7 +27,3 @@ Check out other stuff I've worked on:
 **Snapchat Clone:** https://github.com/geraldiner/snapchat-clone
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
-
-**Pom Poko Pomodoro App:** https://github.com/geraldiner/pom-poko-pomodoro
-
-**Interactive Piano:** https://github.com/geraldiner/piano
