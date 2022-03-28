@@ -18,6 +18,7 @@ Documenting my progress through the Fullstack Open Course at https://fullstackop
 
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -40,4 +41,4 @@ Let's talk about self-taught programming, experience design, (computer science) 
 
 **Email**: hello [at] geraldiner [dot] com
 
-I'm also looking for new Full-Stack or Front-End opportunities, so please reach out if you'd like to work together!
+Currently working full-time at <a target="_blank" href="https://nomnomnow.com">Nom Nom</a>, but always open to any cool, interesting projects!
