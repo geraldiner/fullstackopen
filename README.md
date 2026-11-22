@@ -10,25 +10,6 @@ Documenting my progress through the Fullstack Open Course at https://fullstackop
  
 # Lessons Learned:
   -->
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Other Projects
 
 Check out other stuff I've worked on:
